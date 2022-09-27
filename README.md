@@ -8,7 +8,7 @@
 
 
 💻 SKILLS ::
-- Langage | JAVA, HTML5, CSS, Javascript
+- Langage | JAVA, JSP, HTML5, CSS, Javascript
 - FrameWork & Library |  Spring Framework, jQuery
 - Build Tool | Maven
 - Version Tool | Git
